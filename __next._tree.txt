@@ -1,3 +1,3 @@
 :HL["/_next/static/css/c834a24292a451a4.css","style"]
 :HL["/food/eric-at-the-table.webp","image",{"imageSrcSet":"/food/eric-at-the-table-small.webp 680w, /food/eric-at-the-table.webp 1200w","imageSizes":"(max-width: 700px) calc(100vw - 36px), (max-width: 1010px) 46vw, 580px","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"Pa45ohTNcVZ3kYm53nv0h"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"BgYBzxcQoZ9nrn33sfG_b"}
