@@ -25,6 +25,10 @@ h2{font-size:clamp(25px,3.2vw,42px);letter-spacing:-.056em}
 .index-hero h1,.recipe-heading h1{margin:9px 0 16px}
 .index-hero>p:last-of-type,.recipe-heading>p:last-of-type{max-width:590px;color:var(--muted);font-size:18px}
 .count,.yield{display:inline-block;margin-top:22px;padding:6px 10px;background:var(--linen);color:var(--brown);font-size:13px;font-weight:700;border-radius:3px}
+.seasonal-menu{margin-top:25px;padding:20px clamp(16px,3vw,32px);background:var(--linen);border-radius:4px}
+.seasonal-menu h2{margin:5px 0 7px}
+.seasonal-menu h2 span{color:var(--brown);font-size:.65em;vertical-align:middle}
+.seasonal-menu p:last-child{color:var(--muted)}
 .featured{padding-block:40px}
 .spotlights{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin-top:16px}
 .spotlight{display:grid;align-content:start;gap:8px;padding-bottom:14px;border-bottom:1px solid var(--line)}
